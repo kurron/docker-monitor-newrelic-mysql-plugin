@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker stop mongodb-service 
-docker rm mongodb-service 
+docker stop newrelic-mysql-plugin 
+docker rm newrelic-mysql-plugin 
